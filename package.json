@@ -1,0 +1,15 @@
+{
+  "name": "mysuperheroes",
+  "version": "1.0.0",
+  "description": "My first NodeJS App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Vladislav Kruusman",
+  "license": "ISC",
+  "dependencies": {
+    "superheroes": "^3.0.0"
+  }
+}
